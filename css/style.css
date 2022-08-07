@@ -11713,3 +11713,6 @@ figure.highlight.foldable div.level-left {
   content: counter(section) "." counter(sub-section) "." counter(composite) " ";
   counter-increment: composite;
 }
+html {
+  background-color: #9ce3de;
+}
