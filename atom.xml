@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tech &amp;&amp; Life</title>
+  
+  <subtitle>Albertiy知识博客</subtitle>
+  <link href="https://albertiy.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://albertiy.github.io/"/>
+  <updated>2022-07-27T08:39:58.298Z</updated>
+  <id>https://albertiy.github.io/</id>
+  
+  <author>
+    <name>Albertiy</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://albertiy.github.io/posts/2022-07-27-hello-world/"/>
+    <id>https://albertiy.github.io/posts/2022-07-27-hello-world/</id>
+    <published>2022-07-27T08:39:58.298Z</published>
+    <updated>2022-07-27T08:39:58.298Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My First Hexo Post</title>
+    <link href="https://albertiy.github.io/posts/2020-08-09-My-First-Hexo-Post/"/>
+    <id>https://albertiy.github.io/posts/2020-08-09-My-First-Hexo-Post/</id>
+    <published>2020-08-09T15:10:45.000Z</published>
+    <updated>2020-08-09T15:10:45.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;完善博客&quot;&gt;&lt;a href=&quot;#完善博客&quot; class=&quot;headerlink&quot; title=&quot;完善博客&quot;&gt;&lt;/a&gt;完善博客&lt;/h1&gt;&lt;h2 id=&quot;插入图片&quot;&gt;&lt;a href=&quot;#插入图片&quot; class=&quot;headerlink&quot; title=&quot;插入图片&quot;&gt;&lt;/a</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用 Markdown</title>
+    <link href="https://albertiy.github.io/posts/2017-11-30-2017-11-30-Demo2/"/>
+    <id>https://albertiy.github.io/posts/2017-11-30-2017-11-30-Demo2/</id>
+    <published>2017-11-30T06:57:00.000Z</published>
+    <updated>2017-11-30T06:57:00.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;为什么使用-Markdown&quot;&gt;&lt;a href=&quot;#为什么使用-Markdown&quot; class=&quot;headerlink&quot; title=&quot;为什么使用 Markdown&quot;&gt;&lt;/a&gt;为什么使用 Markdown&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;看上去不错  &lt;/li&gt;
+&lt;li</summary>
+      
+    
+    
+    
+    <category term="技术" scheme="https://albertiy.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>不错的一天</title>
+    <link href="https://albertiy.github.io/posts/2017-11-30-2017-11-30-Demo/"/>
+    <id>https://albertiy.github.io/posts/2017-11-30-2017-11-30-Demo/</id>
+    <published>2017-11-30T06:49:00.000Z</published>
+    <updated>2017-11-30T06:49:00.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;为什么心情不错&quot;&gt;&lt;a href=&quot;#为什么心情不错&quot; class=&quot;headerlink&quot; title=&quot;为什么心情不错&quot;&gt;&lt;/a&gt;为什么心情不错&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;天气还可以&lt;/li&gt;
+&lt;li&gt;既然天气还可以，为什么不开心呢  &lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+      
+    
+    
+    
+    <category term="日记" scheme="https://albertiy.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+</feed>
