@@ -11714,6 +11714,12 @@ figure.highlight.foldable div.level-left {
 html {
   background-color: #9ce3de;
 }
+.card.widget.music-container {
+  box-shadow: none;
+  max-width: calc(100% + 20px);
+  width: calc(100% + 20px);
+  margin-left: -10px;
+}
 body {
   counter-reset: card;
 }
